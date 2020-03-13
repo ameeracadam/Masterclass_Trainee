@@ -1,7 +1,7 @@
 #   Task 1: Shell Commands
 Write a short series of shell commands in a single line to list out the processes that belong to the "root"directory and print out the PID, owner, and name of process
 
-##  Create a BASH shell
+##  Create a BASH script
 -   `cd` to an appropriate folder and create a new `.sh` file.
 -   For Mac/ Ubuntu VM: `touch [name_of_script].sh`
 -   For Windows: `new-item [name_of_script].sh`
